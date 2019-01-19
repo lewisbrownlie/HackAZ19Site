@@ -3,7 +3,7 @@ img {
 }
 
 body{
- background-color: LemonChiffon;
+ background-color: blue;
 }
 
 p{
@@ -13,4 +13,8 @@ p{
 
 #banner {
  font-size: 50px:
+}
+
+.id {
+ border: 1px black dashed;
 }
