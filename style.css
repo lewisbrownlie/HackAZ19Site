@@ -3,6 +3,11 @@ img {
  height: 200px;
 }
 
+background{
+ color: LemonChiffon;
+}
+
 p{
- color: rgba(23,47,34,0.8);
+ color: blue;
+ text-color: red;
 }
